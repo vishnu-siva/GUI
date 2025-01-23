@@ -1,0 +1,101 @@
+
+       
+ body
+  { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:"Open Sans",sans-serif;
+    width: 100%;
+    height: 100vh;
+    background:url("Background.jpg") center / cover no-repeat ;
+  } 
+
+  header
+  {
+    
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    padding: 0 5px ;
+  }
+  .navbar
+  {
+    padding: 10px;
+    display:flex;
+    align-items: center;
+    max-width:1200px;
+    margin:0 auto;
+    justify-content: space-between;
+  }
+ 
+  .navbar .logo 
+  {
+    display:flex;
+    gap: 15px;
+    align-items: center;
+    text-decoration: none;
+
+  }
+
+  .navbar .logo img
+  {
+    width: 120px;
+    border-radius:50% ;
+
+  }
+ 
+  .navbar .lin
+  {
+    
+    display:contents;
+    list-style: none;
+    gap: 50px;
+  }
+  
+  .navbar .logo h2
+  {
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: 600;
+  }
+  .navbar .logo h3
+  {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    align-items: baseline;
+    justify-content:first baseline;
+    display: flex; 
+  }
+ 
+  .navbar .lin a
+  {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.0rem;
+    font-weight: 500;
+  }
+  .navbar .lin a:hover
+  {
+    color: #19e8ff;
+    text-decoration: underline;
+
+  }
+  .Signin
+  {
+    border:none;
+    outline: none;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 10px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(128, 190, 226);
+    text-decoration: none;
+    
+  } 
+  
+  

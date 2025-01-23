@@ -12,11 +12,13 @@
             height: 100vh;
             margin: 0;
             background-color: #f0f4f7;
+            background:url("Background.jpg") center / cover no-repeat ;
+            backdrop-filter: blur(2px);
         }
         .login-container {
             background-color: #7de0ff;
             padding: 40px;
-            border-radius: 10px;
+            border-radius: 20px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
             text-align: center;
             width: 400px;
@@ -34,6 +36,14 @@
             margin: 10px 0;
             border: 1px solid #ccc;
             border-radius: 5px;
+        }
+        .login-container .close-btn
+        {
+            position: absolute;
+            top:12px;
+            right: 12px;
+            color: #878484;
+            cursor: pointer;
         }
         .checkbox-container {
             display: flex;
@@ -61,6 +71,7 @@
             border-radius: 5px;
             font-size: 16px;
             cursor: pointer;
+            transition : 0.2s;
         }
         .sign-in-btn:hover {
             background-color: #003366;
@@ -80,7 +91,8 @@
 <body>
 
     <div class="login-container">
-        <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" alt="User Icon">
+        <div class="close-btn material-symbols-rounded">close</div>
+        <img src="Faceicon.png" alt="User Icon">
         <h1>Sign In Your Account</h1><form action="/dashboard" method="post"></form>
     
         <form action="/dashboard" method="post">
