@@ -1,0 +1,27 @@
+
+
+
+<% include partials/header %>
+<section class="page register">
+  <div class="register-area">
+    <div class="title">
+      <a class="home-link" href="/">Home</a>
+      <h2>Register</h2>
+    </div>
+    <form class="form form-register" action="/register" method="POST">
+      <div class="input-group">
+        <label for="username">Username</label>
+        <input type="text" name="username" id="username" placeholder="Enter your username" required />
+      </div>
+      <div class="input-group">
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" placeholder="Enter your password" required />
+      </div>
+      <div class="form-actions">
+        <button class="btn btn-submit" type="submit">Register</button>
+        <a class="btn btn-alternate" href="/login">Already have an account? Login</a>
+      </div>
+    </form>
+  </div>
+</section>
+<% include partials/footer %>
