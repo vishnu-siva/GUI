@@ -1,0 +1,3 @@
+C:\Users\VISHNUGA\Desktop\GUI project\WpfAppV\WpfAppV\obj\Debug\net8.0-windows\WpfAppV.csproj.AssemblyReference.cache
+C:\Users\VISHNUGA\Desktop\GUI project\WpfAppV\WpfAppV\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\VISHNUGA\Desktop\GUI project\WpfAppV\WpfAppV\obj\Debug\net8.0-windows\WpfAppV_MarkupCompile.cache

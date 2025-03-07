@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GUI\\Desktop\\Conduct Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\conductdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\conductdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\conductdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\conductdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\signinxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\signinxaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\conductmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\conductmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\conduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\conduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\signinxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\signinxaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\userdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\userdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|d:\\gui\\desktop\\conduct management system\\wpfappv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BE48989-5138-447C-8260-1E20C1332008}|WpfAppV\\ConductManagementSystem.csproj|solutionrelative:wpfappv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\DataBaseHelper.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\DataBaseHelper.cs",
+              "RelativeToolTip": "WpfAppV\\DataBaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:11:01.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppV\\MainWindow.xaml",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppV\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-02T16:12:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppV\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:12:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConductDetails.xaml",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductDetails.xaml",
+              "RelativeDocumentMoniker": "WpfAppV\\ConductDetails.xaml",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductDetails.xaml",
+              "RelativeToolTip": "WpfAppV\\ConductDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-02T17:58:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConductManagementSystem.csproj",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductManagementSystem.csproj",
+              "RelativeDocumentMoniker": "WpfAppV\\ConductManagementSystem.csproj",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductManagementSystem.csproj",
+              "RelativeToolTip": "WpfAppV\\ConductManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T08:01:46.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conduct.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Conduct.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\Conduct.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Conduct.cs",
+              "RelativeToolTip": "WpfAppV\\Conduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:17:36.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signinxaml.xaml",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Signinxaml.xaml",
+              "RelativeDocumentMoniker": "WpfAppV\\Signinxaml.xaml",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Signinxaml.xaml",
+              "RelativeToolTip": "WpfAppV\\Signinxaml.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T09:55:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConductDetails.xaml.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductDetails.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\ConductDetails.xaml.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\ConductDetails.xaml.cs",
+              "RelativeToolTip": "WpfAppV\\ConductDetails.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAlwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:02:50.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Signinxaml.xaml.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Signinxaml.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\Signinxaml.xaml.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\Signinxaml.xaml.cs",
+              "RelativeToolTip": "WpfAppV\\Signinxaml.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:07:30.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\App.xaml.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\App.xaml.cs",
+              "RelativeToolTip": "WpfAppV\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:40:54.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\App.xaml",
+              "RelativeDocumentMoniker": "WpfAppV\\App.xaml",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\App.xaml",
+              "RelativeToolTip": "WpfAppV\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T13:54:34.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\User.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\User.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\User.cs",
+              "RelativeToolTip": "WpfAppV\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:26:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDataContext.cs",
+              "DocumentMoniker": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\UserDataContext.cs",
+              "RelativeDocumentMoniker": "WpfAppV\\UserDataContext.cs",
+              "ToolTip": "D:\\GUI\\Desktop\\Conduct Management System\\WpfAppV\\UserDataContext.cs",
+              "RelativeToolTip": "WpfAppV\\UserDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:20:14.013Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
